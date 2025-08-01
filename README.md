@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there, I'm Velloresyed Arifulla (Arif) — `AI/ML Engineer | Tech Enthusiast | Innovator`<br><br> 💡 About Me<br>🎓 Currently pursuing B.Tech in Artificial Intelligence & Machine Learning at Alliance University  <br>🚀 Passionate about solving real-world problems using AI/ML and innovative tech  <br>🎯 Goal: To become a CEO leading future tech innovation<br>
+# 👋 Hi there, I'm Velloresyed Arifulla (Arif):
+ `AI/ML Engineer | Tech Enthusiast | Innovator`<br><br> 💡 About Me<br>🎓 Currently pursuing B.Tech in Artificial Intelligence & Machine Learning at Alliance University  <br>🚀 Passionate about solving real-world problems using AI/ML and innovative tech  <br>🎯 Goal: To become a CEO leading future tech innovation<br>
 
 
 ## 🌐 Socials:
