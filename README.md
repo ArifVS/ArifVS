@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=240&section=header&text=Arif&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Entrepreneur%20•%20Building%20AI%20Systems%20•%20Future%20CEO&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=240&section=header&text=Arif%20VS&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Entrepreneur%20•%20Building%20AI%20Systems%20•%20Future%20CEO&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -24,10 +24,11 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ArifVS&color=3B82F6&style=flat-square"/>
 <img src="https://img.shields.io/github/followers/ArifVS?style=flat-square&color=3B82F6"/>
 
 </div>
+
+---
 
 ---
 
