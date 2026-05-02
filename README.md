@@ -1,9 +1,35 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Arif&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Entrepreneur%20•%20Building%20AI%20Systems%20•%20Future%20CEO&descSize=18&descAlignY=60" />
-</p>
+<div align="center">
 
-<br><br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=240&section=header&text=Arif&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Entrepreneur%20•%20Building%20AI%20Systems%20•%20Future%20CEO&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=I+build+systems+that+scale;AI+%7C+Startups+%7C+System+Design;Solving+real-world+problems;From+idea+to+execution)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://leetcode.com/u/Arif_V_S/">
+<img src="https://img.shields.io/badge/LeetCode-Practice-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arif-vs/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/ArifVS">
+<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ArifVS&color=3B82F6&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/ArifVS?style=flat-square&color=3B82F6"/>
+
+</div>
+
+---
 
 # 👋 Hi there, I'm Velloresyed Arifulla (Arif):
  `AI/ML Engineer | Tech Enthusiast | Innovator`<br><br> 💡 About Me<br>🎓 Currently pursuing B.Tech in Artificial Intelligence & Machine Learning at Alliance University  <br>🚀 Passionate about solving real-world problems using AI/ML and innovative tech  <br>🎯 Goal: To become a CEO leading future tech innovation<br>
