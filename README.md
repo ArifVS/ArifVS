@@ -6,7 +6,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=I+build+systems+that+scale;AI+%7C+Startups+%7C+System+Design;Solving+real-world+problems;From+idea+to+execution)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+the+future+with+AI;Entrepreneur+in+progress;From+code+to+company;Creating+impact+through+technology)](https://git.io/typing-svg)
 
