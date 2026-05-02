@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=240&section=header&text=ArifVS&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Entrepreneur%20•%20Building%20AI%20Systems%20•%20Future%20CEO&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=240&section=header&text=Arif%20VS&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Entrepreneur%20•%20Building%20AI%20Systems%20•%20Future%20CEO&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -9,7 +9,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=I+build+systems+that+scale;AI+%7C+Startups+%7C+System+Design;Solving+real-world+problems;From+idea+to+execution)](https://git.io/typing-svg)
 
 <br/>
-
 
 </div>
 
