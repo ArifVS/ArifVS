@@ -10,21 +10,6 @@
 
 <br/>
 
-<a href="https://leetcode.com/u/Arif_V_S/">
-<img src="https://img.shields.io/badge/LeetCode-Practice-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
-<a href="https://www.linkedin.com/in/arif-vs/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/ArifVS">
-<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/ArifVS?style=flat-square&color=3B82F6"/>
 
 </div>
 
